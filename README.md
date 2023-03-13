@@ -24,4 +24,5 @@ Direct links:
 | ------------ | ----------- |
 | [`0x00. Python - Hello, World`](https://github.com/patrickolumba/alx-higher_level_programming/tree/master/0x00-python-hello_world) | It aims to learn about python programming, the Zen of Python, how to use Python interpreter and print text using `print` in **Python language**.|
 | [`0x01. Python - if/else, loops, functions`](https://github.com/patrickolumba/alx-higher_level_programming/tree/master/0x01-python-if_else_loops_functions) | It aims to learn about if, else and loops in **Python language**.|
-|
+| [`0x02. Python - import & modules`](https://github.com/patrickolumba/alx-higher_level_programming/tree/master/0x02-python-import_modules) | It aims to learn about importing functions from another file and modules in **Python language**.|
+| [`0x03. Python - Data Structures: Lists, Tuples`](https://github.com/patrickolumba/alx-higher_level_programming/tree/master/0x03-python-data_structures) | This is data structures - lists and tuples - in **Python language**.|
